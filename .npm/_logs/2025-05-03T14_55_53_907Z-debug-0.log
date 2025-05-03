@@ -1,0 +1,22 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v23.11.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm exec expo start
+7 verbose argv "exec" "--" "expo" "start"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-05-03T14_55_53_907Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-05-03T14_55_53_907Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+13 http fetch GET 200 https://registry.npmjs.org/expo 255ms (cache updated)
+14 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+15 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+16 verbose cwd /data/data/com.termux/files/home
+17 verbose os Linux 6.1.99-android14-11-gd7dac4b14270-ab12946699
+18 verbose node v23.11.0
+19 verbose npm  v10.9.2
+20 verbose exit 1
+21 verbose code 1
